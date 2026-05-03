@@ -92,4 +92,4 @@ This project demonstrates strong Excel skills in data analysis, including data c
 
 
 ## 📊 Dashboard Preview
-![Dashboard](image.png)
+![Dashboard](Blinkit%20Dashboard.png)
